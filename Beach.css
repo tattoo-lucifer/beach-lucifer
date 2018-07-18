@@ -201,9 +201,10 @@ main {
 	grid-column: 2/2;
     height: 30vh;
 	}
-
-.main2 {
+.main1{
 	background: #F1F6F9;
+}
+.main2 {
 	height: 80vh;
 	padding: 100px;
 	align-items: center;
@@ -211,6 +212,8 @@ main {
     display: flex;
     flex-direction: column;
 	text-align: justify;
+	width: 60%;
+	margin: 0 auto;
 }
 .main2 * {
 	letter-spacing: 2px;
@@ -409,6 +412,8 @@ letter-spacing: 2px;
 		height: 15rem;
 		object-position: center;
 	}
+	.main2 * {
+	letter-spacing: 1px;
 }
 
 @media (max-width: 599px) {
@@ -462,10 +467,8 @@ letter-spacing: 2px;
 	#toggle {
 		width: 25px;
 	}
-	.main2 * {
-	letter-spacing: 1px;
 }
-}		
+}	
 	
 @media(max-width:991px) {
 	/*footer*/
