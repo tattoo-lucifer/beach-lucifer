@@ -406,10 +406,9 @@ letter-spacing: 2px;
 		height: 30rem;
 	}
 	.photo {
-		object-position: center;
 		height: 15rem;
+		object-position: center;
 	}
-	
 }
 
 @media (max-width: 599px) {
