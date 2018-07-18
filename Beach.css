@@ -257,9 +257,10 @@ form {
 	display: flex;
 }
 input {
-	 width: 50%;
+    width: 50%;
     border: 1px solid;
     padding: 10px;
+    border-radius: 0;
 }
 .line .input {
 	margin-left: 10px;
