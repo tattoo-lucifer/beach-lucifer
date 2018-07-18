@@ -439,7 +439,6 @@ letter-spacing: 2px;
 	}
 	.main2 {
 		padding: 50px;
-		text-align: center;
 	}
 	.headerBorder {
 		    padding: 2rem 4rem;
@@ -463,25 +462,10 @@ letter-spacing: 2px;
 	#toggle {
 		width: 25px;
 	}
-}	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	.main2 * {
+	letter-spacing: 1px;
+}
+}		
 	
 @media(max-width:991px) {
 	/*footer*/
