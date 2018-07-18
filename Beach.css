@@ -444,6 +444,7 @@ letter-spacing: 2px;
 	}
 	.main2 {
 		padding: 50px;
+		width: auto;
 	}
 	.headerBorder {
 		    padding: 2rem 4rem;
