@@ -25,106 +25,6 @@ h6{
 p{
 	font-size: 0.9rem;
 }
-@media (max-width: 1799px) {
-	
-* {
-		font-size: 17px
-	}
-}
-@media (max-width: 1600px) {
-	* {
-		font-size: 16px
-	}
-}
-	
-@media (max-width: 1279px) {
-	
-* {
-		font-size: 14px
-	}
-}
-
-@media (max-width: 1025px) {
-	
-* {
-		font-size: 12px
-	}
-}
-@media(max-width: 799px) {
-	
-* {
-		font-size: 10px
-	}
-	.mainphoto {
-		text-align: center;
-		display: block;
-		margin: 7rem 3rem 13rem;
-	}
-	.mainphoto img {
-		width: 100%;
-		margin: 2% auto;
-		height: 30rem;
-	}
-	.photo {
-		object-position: center;
-		height: 15rem;
-	}
-	
-}
-
-@media (max-width: 599px) {
-	
-* {
-		font-size: 9px
-	}
-	.container {
-		width: 90%;
-	}
-	.about {
-		width: 90%;
-	}
-	.typewriter {
-		width: 90%;
-	}
-	.social img {
-		width: 20px;
-		height: 20px;
-	}
-
-}
-@media(max-width: 480px) {
-	
-* {
-		font-size: 8px;
-		letter-spacing: 1px;
-	}
-	.main2 {
-		padding: 50px;
-		text-align: center;
-	}
-	.headerBorder {
-		    padding: 2rem 4rem;
-	}
-	.container {
-		width: 100%;
-	}
-	.about {
-		width: 100%;
-	}
-	.typewriter {
-		width: 100%;
-	}
-	.social img {
-		width: 20px;
-		height: 20px;
-	}
-	#toggle .span{
-		margin: 2px auto;
-	}
-	#toggle {
-		width: 25px;
-	}
-}	
 body {
 	padding: 0;
 	box-sizing: border-box;
@@ -357,10 +257,10 @@ form {
 	display: flex;
 }
 input {
-    width: 50%;
+	 width: 50%;
     border: 1px solid;
     padding: 10px;
-    border-radius: 0;
+	border-radius: 0;
 }
 .line .input {
 	margin-left: 10px;
@@ -406,6 +306,7 @@ footer {
 	width: 85%;
     border: 1px solid;
     padding: 10px;
+	border-radius: 0;
 }
 .btn2 {
 	background-color: white;
@@ -463,6 +364,125 @@ letter-spacing: 2px;
 
 }
 
+
+@media (max-width: 1799px) {
+	
+* {
+		font-size: 17px
+	}
+}
+@media (max-width: 1600px) {
+	* {
+		font-size: 16px
+	}
+}
+	
+@media (max-width: 1279px) {
+	
+* {
+		font-size: 14px
+	}
+}
+
+@media (max-width: 1025px) {
+	
+* {
+		font-size: 12px
+	}
+}
+@media(max-width: 799px) {
+	
+* {
+		font-size: 10px
+	}
+	.mainphoto {
+		text-align: center;
+		display: block;
+		margin: 7rem 3rem 13rem;
+	}
+	.mainphoto img {
+		width: 100%;
+		margin: 2% auto;
+		height: 30rem;
+	}
+	.photo {
+		object-position: center;
+		height: 15rem;
+	}
+	
+}
+
+@media (max-width: 599px) {
+	
+* {
+		font-size: 9px
+	}
+	.container {
+		width: 90%;
+	}
+	.about {
+		width: 90%;
+	}
+	.typewriter {
+		width: 90%;
+	}
+	.social img {
+		width: 20px;
+		height: 20px;
+	}
+
+}
+@media(max-width: 480px) {
+	
+* {
+		font-size: 8px;
+		letter-spacing: 1px;
+	}
+	.main2 {
+		padding: 50px;
+		text-align: center;
+	}
+	.headerBorder {
+		    padding: 2rem 4rem;
+	}
+	.container {
+		width: 100%;
+	}
+	.about {
+		width: 100%;
+	}
+	.typewriter {
+		width: 100%;
+	}
+	.social img {
+		width: 20px;
+		height: 20px;
+	}
+	#toggle .span{
+		margin: 2px auto;
+	}
+	#toggle {
+		width: 25px;
+	}
+}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 @media(max-width:991px) {
 	/*footer*/
