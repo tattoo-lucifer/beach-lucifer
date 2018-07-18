@@ -185,6 +185,7 @@ input {
 	 width: 50%;
     border: 1px solid;
     padding: 10px;
+     border-radius: 0;
 }
 .line .input {
 	margin-left: 10px;
@@ -230,6 +231,7 @@ footer {
 	width: 85%;
     border: 1px solid;
     padding: 10px;
+	border-radius: 0;
 }
 .btn2 {
 	background-color: white;
