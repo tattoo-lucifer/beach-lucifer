@@ -23,7 +23,7 @@ h6{
 	font-size: 0.7rem;
 }
 p{
-	font-size: 0.85rem;
+	font-size: 0.9rem;
 }
 body {
 	padding: 0;
@@ -468,9 +468,7 @@ letter-spacing: 2px;
 	#toggle {
 		width: 25px;
 	}
-}
 }	
-	
 @media(max-width:991px) {
 	/*footer*/
 	footer{
